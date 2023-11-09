@@ -1,13 +1,13 @@
 
 
 .scroll-back {
-    background-image: url('/img/blob_1.svg');
+    background-image: url('/Bootstrap-5-Blog-Template/img/blob_1.svg');
     background-size: cover;
     animation: streak-1 15s linear infinite alternate;
 }
 
 .scroll-back-short {
-    background-image: url('/img/blob_1.svg');
+    background-image: url('/Bootstrap-5-Blog-Template/img/blob_1.svg');
     background-size: 200em;
     animation: streak-2 10s linear infinite alternate;
 }
@@ -16,32 +16,32 @@
 
 @keyframes streak-1 {
     0% {
-        background-image: url('/img/blob_1.svg');
+        background-image: url('/Bootstrap-5-Blog-Template/img/blob_1.svg');
         background-position: 10%;
     }
 
     50% {
-        background-image: url('/img/blob_2.svg');
+        background-image: url('/Bootstrap-5-Blog-Template/img/blob_2.svg');
     }
 
     100% {
-        background-image: url('/img/blob_3.svg');
+        background-image: url('/Bootstrap-5-Blog-Template/img/blob_3.svg');
     }
 
 }
 
 @keyframes streak-2 {
     0% {
-        background-image: url('/img/blob_1.svg');
+        background-image: url('/Bootstrap-5-Blog-Template/img/blob_1.svg');
         background-size: 220em;
     }
 
     50% {
-        background-image: url('/img/blob_2.svg');
+        background-image: url('/Bootstrap-5-Blog-Template/img/blob_2.svg');
     }
 
     100% {
-        background-image: url('/img/blob_3.svg');
+        background-image: url('/Bootstrap-5-Blog-Template/img/blob_3.svg');
     }
 
 }
